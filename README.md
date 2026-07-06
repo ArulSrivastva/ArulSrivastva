@@ -63,6 +63,8 @@ I am a passionate developer focused on building AI-driven solutions and masterin
 
 ### 🤝 Connect with Me
 - **LinkedIn:** [linkedin.com/in/arulsrivastva](https://linkedin.com/in/arulsrivastva)
+- **Instagram:**[instagram.com/arul.srivastva/](https://www.instagram.com/arul.srivastva/)
+- **Leetcode:**[leetcode.com/u/arulsrivastva/](https://leetcode.com/u/arulsrivastva/)
 
 ---
 
