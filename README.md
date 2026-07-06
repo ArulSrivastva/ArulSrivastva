@@ -53,10 +53,10 @@ I am a passionate developer focused on building AI-driven solutions and masterin
 
 ### 📊 GitHub Stats<p align="center">
 <p align='centre'>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arulsrivastva-avv&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arulsrivastva&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arulsrivastva-avv&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arulsrivastva&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
