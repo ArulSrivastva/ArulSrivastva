@@ -37,10 +37,10 @@ I am a passionate developer focused on building AI-driven solutions and masterin
 
 ### 🏗 Featured Projects
 
-#### 🧠 [Mood Checker ChatBot](https://github.com/arulsrivastva-avv/A-Basic-Python-Mood-Checker-ChatBot)
+#### 🧠 [Mood Checker ChatBot](https://github.com/arulsrivastva/A-Basic-Python-Mood-Checker-ChatBot)
 * A **Flask-based** web application that analyzes user sentiment and provides mood-based responses.
 
-#### 📁 [Portfolio Website](https://github.com/Arulsrivastva-avv/Portfolio-Using-HTML-AND-CSS)
+#### 📁 [Portfolio Website](https://github.com/Arulsrivastva/Portfolio-Using-HTML-AND-CSS)
 * A sleek, responsive personal site built with **HTML and CSS** to showcase my certifications and skills.
 
 ---
