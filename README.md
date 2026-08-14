@@ -1,6 +1,6 @@
 # Arul Srivastva
 
-### First-Year B.Tech Student at Amrita Vishwa Vidyapeetham
+### Second-Year B.Tech Student at Amrita Vishwa Vidyapeetham
 I am a passionate developer focused on building AI-driven solutions and mastering low-level programming. I enjoy bridging the gap between complex algorithms and user-friendly applications.
 
 ---
@@ -55,4 +55,4 @@ I am a passionate developer focused on building AI-driven solutions and masterin
 
 ---
 
-*"I believe in learning by building."*
+*"When I'm not coding, you can find me sketching, planning Clash Royale strategies, or tracking my fitness."*
