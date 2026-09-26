@@ -571,7 +571,7 @@ Deployment
 
 ---
 
-## `06` // GITHUB TELEMETRY
+## 06 // GITHUB TELEMETRY
 
 <div align="center">
 
@@ -580,18 +580,33 @@ Deployment
 
 <td width="50%" align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=ArulSrivastva&show_icons=true&hide_border=true&bg_color=0A0E1A&title_color=00F5FF&icon_color=7C3AED&text_color=FFFFFF"
-  alt="GitHub Statistics"
-/>
+<h3>GITHUB ACTIVITY</h3>
+
+<p>
+<a href="https://github.com/ArulSrivastva">
+<img src="https://img.shields.io/github/followers/ArulSrivastva?label=FOLLOWERS&style=for-the-badge&color=00F5FF&labelColor=0A0E1A" />
+</a>
+</p>
+
+<p>
+<a href="https://github.com/ArulSrivastva?tab=repositories">
+<img src="https://img.shields.io/github/stars/ArulSrivastva?label=TOTAL%20STARS&style=for-the-badge&color=7C3AED&labelColor=0A0E1A" />
+</a>
+</p>
+
+<p>
+<img src="https://img.shields.io/github/created-at/ArulSrivastva/ArulSrivastva?label=PROFILE%20CREATED&style=for-the-badge&color=FF00E5&labelColor=0A0E1A" />
+</p>
 
 </td>
 
 <td width="50%" align="center">
 
+<h3>CODING STREAK</h3>
+
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArulSrivastva&layout=compact&hide_border=true&bg_color=0A0E1A&title_color=FF00E5&text_color=FFFFFF&langs_count=8"
-  alt="Top Languages"
+src="https://streak-stats.demolab.com?user=ArulSrivastva&theme=dark&hide_border=true&background=0A0E1A&ring=00F5FF&fire=FF00E5&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7C3AED"
+width="100%"
 />
 
 </td>
@@ -599,37 +614,30 @@ Deployment
 </tr>
 </table>
 
-<br>
-
-<img
-  src="https://streak-stats.demolab.com?user=ArulSrivastva&theme=dark&hide_border=true&background=0A0E1A&ring=00F5FF&fire=FF00E5&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7C3AED"
-  alt="GitHub Streak"
-  width="80%"
-/>
-
 </div>
 
-
-## `07` // CONTRIBUTION MATRIX
+## 07 // CONTRIBUTION MATRIX
 
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ArulSrivastva/ArulSrivastva/output/github-contribution-grid-snake-dark.svg"
-  />
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ArulSrivastva/ArulSrivastva/output/github-contribution-grid-snake.svg"
-  />
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/ArulSrivastva/ArulSrivastva/output/github-contribution-grid-snake-dark.svg"
+/>
 
-  <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/ArulSrivastva/ArulSrivastva/output/github-contribution-grid-snake.svg"
-    width="95%"
-  />
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/ArulSrivastva/ArulSrivastva/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/ArulSrivastva/ArulSrivastva/output/github-contribution-grid-snake.svg"
+width="95%"
+/>
+
 </picture>
 
 </div>
