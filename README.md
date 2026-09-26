@@ -571,56 +571,68 @@ Deployment
 
 ---
 
-## 06 // GITHUB TELEMETRY
+## `06` // GITHUB TELEMETRY
+
+<div align="center">
 
 <table>
 <tr>
+
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ArulSrivastva&show_icons=true&hide_border=true&bg_color=0A0E1A&title_color=00F5FF&icon_color=7C3AED&text_color=FFFFFF&ring_color=00F5FF" width="100%" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=ArulSrivastva&show_icons=true&hide_border=true&bg_color=0A0E1A&title_color=00F5FF&icon_color=7C3AED&text_color=FFFFFF"
+  alt="GitHub Statistics"
+/>
 
 </td>
 
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArulSrivastva&layout=compact&hide_border=true&bg_color=0A0E1A&title_color=FF00E5&text_color=FFFFFF&langs_count=8" width="100%" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArulSrivastva&layout=compact&hide_border=true&bg_color=0A0E1A&title_color=FF00E5&text_color=FFFFFF&langs_count=8"
+  alt="Top Languages"
+/>
 
 </td>
+
 </tr>
 </table>
 
 <br>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ArulSrivastva&theme=dark&hide_border=true&background=0A0E1A&ring=00F5FF&fire=FF00E5&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7C3AED" width="80%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArulSrivastva&bg_color=0A0E1A&color=FFFFFF&line=00F5FF&point=FF00E5&area=true&hide_border=true" width="95%" />
+<img
+  src="https://streak-stats.demolab.com?user=ArulSrivastva&theme=dark&hide_border=true&background=0A0E1A&ring=00F5FF&fire=FF00E5&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7C3AED"
+  alt="GitHub Streak"
+  width="80%"
+/>
 
 </div>
 
-## 07 // CONTRIBUTION MATRIX
+
+## `07` // CONTRIBUTION MATRIX
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ArulSrivastva/ArulSrivastva/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub contribution snake animation" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ArulSrivastva/ArulSrivastva/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ArulSrivastva/ArulSrivastva/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/ArulSrivastva/ArulSrivastva/output/github-contribution-grid-snake.svg"
+    width="95%"
+  />
+</picture>
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ArulSrivastva&label=PROFILE+SIGNALS&color=00F5FF&style=for-the-badge" alt="Profile views" />
-
-</div>
-
 
 # `08` // ACHIEVEMENTS
 
