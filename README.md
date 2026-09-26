@@ -680,14 +680,13 @@ SYSTEM
 ────────────────────────────────────────────
 
 OS          : ArulOS
-HOST        : Amrita Vishwa Vidyapeetham
 KERNEL      : Learning
 SHELL       : zsh
 
 LANGUAGES
 ────────────────────────────────────────────
 
-C / C++ / Python / Java / JavaScript / TypeScript
+C / Python / Java / JavaScript / TypeScript
 
 AI STACK
 ────────────────────────────────────────────
