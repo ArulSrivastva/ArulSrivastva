@@ -1,155 +1,207 @@
 <div align="center">
 
-# Hey, I'm Arul Srivastva 👋
-
-### `AI Developer` • `Software Engineer` • `Problem Solver`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+systems+%F0%9F%A4%96;Turning+ideas+into+working+software+%F0%9F%9A%80;Learning+DSA+%26+Low-Level+Programming+%F0%9F%A7%A0;Exploring+Agents%2C+Systems+%26+Full-Stack+Development;Always+building+something+new+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:00F5FF,55:7C3AED,80:FF00E5,100:050816&height=230&section=header&text=ARUL%20SRIVASTVA&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=AI%20%7C%20SYSTEMS%20%7C%20SOFTWARE&descAlignY=58&descSize=20&descColor=00F5FF" width="100%"/>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=800&color=00F5FF&center=true&vCenter=true&width=900&height=60&lines=%3E+Initializing+ArulOS...;%3E+AI+systems+online;%3E+Building+intelligent+software;%3E+Exploring+AI+agents+%26+distributed+systems;%3E+Learning+DSA+%26+low-level+programming;%3E+System+status%3A+BUILDING..." alt="Typing SVG"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING-00F5FF?style=for-the-badge&labelColor=080B14"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20SYSTEMS-7C3AED?style=for-the-badge&labelColor=080B14"/>
+<img src="https://img.shields.io/badge/EDUCATION-B.TECH-00FF9C?style=for-the-badge&labelColor=080B14"/>
+<img src="https://img.shields.io/badge/17%20REPOSITORIES-FF00E5?style=for-the-badge&logo=github&logoColor=white&labelColor=080B14"/>
+
+<br><br>
+
 <a href="https://github.com/ArulSrivastva">
-<img src="https://img.shields.io/github/followers/ArulSrivastva?label=Followers&style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/followers/ArulSrivastva?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=080B14&color=00F5FF"/>
 </a>
-<a href="https://github.com/ArulSrivastva?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-17-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://github.com/ArulSrivastva">
-<img src="https://komarev.com/ghpvc/?username=ArulSrivastva&style=for-the-badge&color=blueviolet" />
-</a>
+
+<img src="https://komarev.com/ghpvc/?username=ArulSrivastva&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS&labelColor=080B14"/>
 
 </div>
 
 ---
 
-## 🧠 About Me
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```python
-class ArulSrivastva:
-
-    def __init__(self):
-        self.name = "Arul Srivastva"
-        self.education = "B.Tech @ Amrita Vishwa Vidyapeetham"
-        self.year = "Second Year"
-        self.focus = [
-            "Artificial Intelligence",
-            "Software Engineering",
-            "Data Structures & Algorithms",
-            "Low-Level Programming",
-            "Full-Stack Development"
-        ]
-
-    def currently_building(self):
-        return [
-            "AI-powered applications",
-            "Multi-agent systems",
-            "Developer tools",
-            "Full-stack applications"
-        ]
-
-    def philosophy(self):
-        return "Build → Break → Learn → Improve → Repeat"
-```
-
-I'm a second-year B.Tech student who enjoys building things at the intersection of **AI, software engineering and systems programming**.
-
-I like taking complicated ideas, turning them into working systems, and then building interfaces that make those systems actually useful.
-
-> **Currently:** Learning deeply, building aggressively, and trying to understand how everything works under the hood.
-
----
-
-## ⚡ What I Work With
+<h2 align="center">SYSTEM STATUS</h2>
 
 <div align="center">
 
-### 💻 Languages
+<img src="https://img.shields.io/badge/CORE-ONLINE-00FF9C?style=for-the-badge&labelColor=080B14"/>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript&perline=6" />
+<br><br>
 
-### 🌐 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&perline=5" />
-
-### ⚙️ Backend & APIs
-
-<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,express&perline=4" />
-
-### 🤖 AI / ML
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=2" />
-
-### 🗄️ Databases & Cloud
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,vercel&perline=4" />
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,postman&perline=6" />
+<table>
+<tr>
+<td><b>USER</b></td>
+<td>Arul Srivastva</td>
+</tr>
+<tr>
+<td><b>ROLE</b></td>
+<td>AI Developer</td>
+</tr>
+<tr>
+<td><b>EDUCATION</b></td>
+<td>B.Tech</td>
+</tr>
+<tr>
+<td><b>FOCUS</b></td>
+<td>AI / Systems</td>
+</tr>
+<tr>
+<td><b>STATUS</b></td>
+<td>Building</td>
+</tr>
+</table>
 
 </div>
 
+</td>
+
+<td width="50%" valign="top">
+
+<h2 align="center">CURRENT MISSION</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20AGENTS-00F5FF?style=for-the-badge&labelColor=080B14"/>
+<img src="https://img.shields.io/badge/DSA-7C3AED?style=for-the-badge&labelColor=080B14"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LOW--LEVEL-FF00E5?style=for-the-badge&labelColor=080B14"/>
+<img src="https://img.shields.io/badge/FULL%20STACK-00FF9C?style=for-the-badge&labelColor=080B14"/>
+
+<br><br>
+
+Building intelligent systems while
+strengthening algorithms, systems
+programming and software engineering.
+
+</div>
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🚀 Featured Projects
+# `01` // WHOAMI
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+## AI Developer
+
+I'm a second-year B.Tech student at **Amrita Vishwa Vidyapeetham** interested in building software at the intersection of:
+
+* Artificial Intelligence
+* Multi-Agent Systems
+* Software Engineering
+* Data Structures & Algorithms
+* Low-Level Programming
+* Full-Stack Development
+
+I enjoy taking complex ideas, understanding how they work underneath the abstraction, and turning them into useful software.
+
+</td>
+
+<td width="40%" valign="top">
+
+<div align="center">
+
+### DEVELOPMENT LOOP
+
+<br>
+
+<img src="https://img.shields.io/badge/01%20IDEA-00F5FF?style=for-the-badge&labelColor=080B14"/>
+
+<br><br>
+
+↓
+
+<br>
+
+<img src="https://img.shields.io/badge/02%20RESEARCH-7C3AED?style=for-the-badge&labelColor=080B14"/>
+
+<br><br>
+
+↓
+
+<br>
+
+<img src="https://img.shields.io/badge/03%20BUILD-FF00E5?style=for-the-badge&labelColor=080B14"/>
+
+<br><br>
+
+↓
+
+<br>
+
+<img src="https://img.shields.io/badge/04%20DEBUG-FFD600?style=for-the-badge&labelColor=080B14"/>
+
+<br><br>
+
+↓
+
+<br>
+
+<img src="https://img.shields.io/badge/05%20IMPROVE-00FF9C?style=for-the-badge&labelColor=080B14"/>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+# `02` // TECH MATRIX
+
+<div align="center">
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="33%" align="center">
 
-<h3 align="center">🤖 Convene</h3>
-
-<div align="center">
-
-<a href="https://github.com/ArulSrivastva/Convene">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+### LANGUAGES
 
 <br>
 
-A **multi-agent debate platform** where specialized AI agents research, challenge each other and work toward a consensus.
-
-**Stack**
-
-`Python` `FastAPI` `LangGraph` `Next.js` `TypeScript` `Supabase`
-
-**Highlights**
-
-* Multi-agent orchestration
-* Real-time SSE streaming
-* Cross-examination between agents
-* Consensus evaluation
-* Web/GitHub/document tools
-* Responsive dashboard
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript&perline=3&theme=dark"/>
 
 </td>
 
-<td width="50%">
+<td width="33%" align="center">
 
-<h3 align="center">⚡ AURA</h3>
-
-<div align="center">
-
-<a href="https://github.com/ArulSrivastva/AURA">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+### AI / ML
 
 <br>
 
-An intelligent automated system designed to streamline workflows and make complex processes easier to manage.
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=2&theme=dark"/>
 
-**Focus**
+<br><br>
 
-`AI` `Automation` `Backend` `Workflow`
+<img src="https://img.shields.io/badge/LLMs-00F5FF?style=flat-square&labelColor=080B14"/>
+<img src="https://img.shields.io/badge/AI%20AGENTS-7C3AED?style=flat-square&labelColor=080B14"/>
 
-**Goal**
+</td>
 
-Build systems that can take repetitive or complex workflows and turn them into streamlined automated processes.
+<td width="33%" align="center">
+
+### FRONTEND
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&perline=3&theme=dark"/>
 
 </td>
 
@@ -157,47 +209,214 @@ Build systems that can take repetitive or complex workflows and turn them into s
 
 <tr>
 
-<td width="50%">
+<td width="33%" align="center">
 
-<h3 align="center">🏥 HealthTech</h3>
-
-<div align="center">
-
-<a href="https://github.com/ArulSrivastva/HealthTech">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+### BACKEND
 
 <br>
 
-A digital health application focused on medical tracking, records management and improving access to wellness information.
-
-**Focus**
-
-`Healthcare` `Application Development` `User Experience`
+<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,express&perline=2&theme=dark"/>
 
 </td>
 
-<td width="50%">
+<td width="33%" align="center">
 
-<h3 align="center">🧠 AI Summarizer</h3>
+### DATABASE
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase&perline=3&theme=dark"/>
+
+</td>
+
+<td width="33%" align="center">
+
+### TOOLS
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&perline=3&theme=dark"/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# `03` // FEATURED SYSTEMS
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 <div align="center">
 
-<a href="https://github.com/ArulSrivastva/AI-Summarizer">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+<h2>CONVENE</h2>
+
+<img src="https://img.shields.io/badge/MULTI--AGENT-AI-00F5FF?style=for-the-badge&labelColor=080B14"/>
+
+<br><br>
+
+<a href="https://github.com/ArulSrivastva/Convene">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=080B14"/>
 </a>
 
 </div>
 
 <br>
 
-An AI-powered utility designed to transform lengthy articles and text into concise, useful summaries.
+A multi-agent AI platform for collaborative reasoning, research and debate.
 
-**Focus**
+### Stack
 
-`Python` `AI` `NLP` `Automation`
+<img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,typescript,supabase&theme=dark"/>
+
+### Systems
+
+<img src="https://img.shields.io/badge/LANGGRAPH-7C3AED?style=flat-square&labelColor=080B14"/>
+<img src="https://img.shields.io/badge/SSE-FF00E5?style=flat-square&labelColor=080B14"/>
+<img src="https://img.shields.io/badge/AGENTS-00F5FF?style=flat-square&labelColor=080B14"/>
+<img src="https://img.shields.io/badge/CONSENSUS-00FF9C?style=flat-square&labelColor=080B14"/>
+
+<br><br>
+
+```text
+USER
+  |
+  v
+ORCHESTRATOR
+  |
+  +---- AGENT A
+  |
+  +---- AGENT B
+  |
+  +---- AGENT C
+  |
+  v
+CONSENSUS
+  |
+  v
+OUTPUT
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+<h2>AURA</h2>
+
+<img src="https://img.shields.io/badge/WORKFLOW-AUTOMATION-FF00E5?style=for-the-badge&labelColor=080B14"/>
+
+<br><br>
+
+<a href="https://github.com/ArulSrivastva/AURA">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-FF00E5?style=for-the-badge&logo=github&logoColor=white&labelColor=080B14"/>
+</a>
+
+</div>
+
+<br>
+
+An intelligent automated system designed to streamline complex workflows and execution.
+
+### Stack
+
+<img src="https://skillicons.dev/icons?i=python,flask,react&theme=dark"/>
+
+### Focus
+
+<img src="https://img.shields.io/badge/AI-00F5FF?style=flat-square&labelColor=080B14"/>
+<img src="https://img.shields.io/badge/AUTOMATION-FF00E5?style=flat-square&labelColor=080B14"/>
+<img src="https://img.shields.io/badge/BACKEND-7C3AED?style=flat-square&labelColor=080B14"/>
+<img src="https://img.shields.io/badge/WORKFLOW-00FF9C?style=flat-square&labelColor=080B14"/>
+
+<br><br>
+
+```text
+INPUT
+  |
+  v
+PROCESS
+  |
+  v
+AUTOMATE
+  |
+  v
+EXECUTE
+  |
+  v
+OUTPUT
+```
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+<h2>HEALTHTECH</h2>
+
+<img src="https://img.shields.io/badge/DIGITAL-HEALTH-00FF9C?style=for-the-badge&labelColor=080B14"/>
+
+<br><br>
+
+<a href="https://github.com/ArulSrivastva/HealthTech">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00FF9C?style=for-the-badge&logo=github&logoColor=white&labelColor=080B14"/>
+</a>
+
+</div>
+
+<br>
+
+Digital health application focused on medical tracking, records management and wellness access.
+
+### Focus
+
+<img src="https://img.shields.io/badge/TRACKING-00FF9C?style=flat-square&labelColor=080B14"/>
+<img src="https://img.shields.io/badge/RECORDS-00F5FF?style=flat-square&labelColor=080B14"/>
+<img src="https://img.shields.io/badge/UX-7C3AED?style=flat-square&labelColor=080B14"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+<h2>AI SUMMARIZER</h2>
+
+<img src="https://img.shields.io/badge/NLP-AI-FFD600?style=for-the-badge&labelColor=080B14"/>
+
+<br><br>
+
+<a href="https://github.com/ArulSrivastva/AI-Summarizer">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-FFD600?style=for-the-badge&logo=github&logoColor=white&labelColor=080B14"/>
+</a>
+
+</div>
+
+<br>
+
+AI-powered utility that processes lengthy articles and transforms them into concise summaries.
+
+### Focus
+
+<img src="https://img.shields.io/badge/NLP-FFD600?style=flat-square&labelColor=080B14"/>
+<img src="https://img.shields.io/badge/AI-00F5FF?style=flat-square&labelColor=080B14"/>
+<img src="https://img.shields.io/badge/AUTOMATION-FF00E5?style=flat-square&labelColor=080B14"/>
 
 </td>
 
@@ -206,49 +425,175 @@ An AI-powered utility designed to transform lengthy articles and text into conci
 
 ---
 
-## 🧩 My Developer Journey
-
-```text
-                    ┌─────────────────────┐
-                    │       IDEAS         │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │      RESEARCH       │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-              ┌───────────────────────────────┐
-              │       BUILD THE SYSTEM        │
-              │                               │
-              │   AI • Backend • Frontend     │
-              │   APIs • Databases • DSA      │
-              └───────────────┬───────────────┘
-                              │
-                              ▼
-                    ┌─────────────────────┐
-                    │       TEST          │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │      IMPROVE        │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                         🚀 DEPLOY
-```
-
----
-
-## 📊 GitHub Analytics
+# `04` // AI SYSTEM ARCHITECTURE
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ArulSrivastva&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+<table>
+<tr>
+<td align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArulSrivastva&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://img.shields.io/badge/INPUT-00F5FF?style=for-the-badge&labelColor=080B14"/>
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/PROCESS-7C3AED?style=for-the-badge&labelColor=080B14"/>
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/AGENTS-FF00E5?style=for-the-badge&labelColor=080B14"/>
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/TOOLS-FFD600?style=for-the-badge&labelColor=080B14"/>
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/OUTPUT-00FF9C?style=for-the-badge&labelColor=080B14"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+```text
+                         ┌──────────────┐
+                         │     INPUT    │
+                         └──────┬───────┘
+                                |
+                                v
+                         ┌──────────────┐
+                         │   PROCESS    │
+                         │              │
+                         │ LLM / MODEL  │
+                         └──────┬───────┘
+                                |
+                 ┌──────────────┼──────────────┐
+                 |              |              |
+                 v              v              v
+            ┌────────┐    ┌────────┐    ┌────────┐
+            │ AGENT  │    │  RAG   │    │ TOOLS  │
+            └────┬───┘    └────┬───┘    └────┬───┘
+                 |              |              |
+                 └──────────────┼──────────────┘
+                                |
+                                v
+                         ┌──────────────┐
+                         │ ORCHESTRATOR │
+                         └──────┬───────┘
+                                |
+                                v
+                         ┌──────────────┐
+                         │    OUTPUT    │
+                         └──────────────┘
+```
+
+</div>
+
+---
+
+# `05` // CURRENTLY LEARNING
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+<img src="https://img.shields.io/badge/AI-00F5FF?style=for-the-badge&labelColor=080B14"/>
+
+<br><br>
+
+LLMs
+
+AI Agents
+
+RAG
+
+Model Integration
+
+</td>
+
+<td width="25%" align="center">
+
+<img src="https://img.shields.io/badge/SYSTEMS-FF00E5?style=for-the-badge&labelColor=080B14"/>
+
+<br><br>
+
+C
+
+Memory
+
+Operating Systems
+
+Low-Level Programming
+
+</td>
+
+<td width="25%" align="center">
+
+<img src="https://img.shields.io/badge/ALGORITHMS-7C3AED?style=for-the-badge&labelColor=080B14"/>
+
+<br><br>
+
+Data Structures
+
+Algorithms
+
+Problem Solving
+
+Competitive Programming
+
+</td>
+
+<td width="25%" align="center">
+
+<img src="https://img.shields.io/badge/ENGINEERING-00FF9C?style=for-the-badge&labelColor=080B14"/>
+
+<br><br>
+
+APIs
+
+Distributed Systems
+
+Docker
+
+Deployment
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 06 // GITHUB TELEMETRY
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ArulSrivastva&show_icons=true&hide_border=true&bg_color=0A0E1A&title_color=00F5FF&icon_color=7C3AED&text_color=FFFFFF&ring_color=00F5FF" width="100%" />
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArulSrivastva&layout=compact&hide_border=true&bg_color=0A0E1A&title_color=FF00E5&text_color=FFFFFF&langs_count=8" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ArulSrivastva&theme=dark&hide_border=true&background=0A0E1A&ring=00F5FF&fire=FF00E5&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7C3AED" width="80%" />
 
 </div>
 
@@ -256,144 +601,212 @@ An AI-powered utility designed to transform lengthy articles and text into conci
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ArulSrivastva&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArulSrivastva&bg_color=0A0E1A&color=FFFFFF&line=00F5FF&point=FF00E5&area=true&hide_border=true" width="95%" />
 
 </div>
 
----
-
-## 🐍 Contribution Activity
+## 07 // CONTRIBUTION MATRIX
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ArulSrivastva/ArulSrivastva/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/ArulSrivastva/ArulSrivastva/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub contribution snake animation" />
 
 </div>
 
----
-
-## 📈 Contribution Graph
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArulSrivastva&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://komarev.com/ghpvc/?username=ArulSrivastva&label=PROFILE+SIGNALS&color=00F5FF&style=for-the-badge" alt="Profile views" />
 
 </div>
 
----
 
-## 🧠 Currently Learning
+# `08` // ACHIEVEMENTS
 
 <div align="center">
 
-|      Area     | Exploring                                              |
-| :-----------: | :----------------------------------------------------- |
-|     🧠 AI     | LLMs • AI Agents • RAG • Model Integration             |
-|   ⚙️ Systems  | C • Memory • Operating Systems • Low-Level Concepts    |
-|     🧩 DSA    | Algorithms • Data Structures • Competitive Programming |
-| 🌐 Full Stack | React • Next.js • FastAPI • APIs                       |
-|   🐳 DevOps   | Docker • Deployment • CI/CD                            |
-|    🗄️ Data   | PostgreSQL • Databases • Data Engineering              |
+<img src="https://github-profile-trophy.vercel.app/?username=ArulSrivastva&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=4"/>
 
 </div>
 
 ---
 
-## 🏆 Certifications
-
-<div align="center">
-
-| Certification                                |       Platform      |
-| :------------------------------------------- | :-----------------: |
-| 💻 C Programming — Payroll Management System | Infosys Springboard |
-| ☕ Learn Programming with Java                | Infosys Springboard |
-
-</div>
-
----
-
-## 💻 Coding Profiles
+# `09` // CODING TERMINAL
 
 <div align="center">
 
 <a href="https://leetcode.com/u/arulsrivastva/">
-<img src="https://img.shields.io/badge/LeetCode-ArulSrivastva-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LEETCODE-ARULSRIVASTVA-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=080B14"/>
+
 </a>
 
 <a href="https://github.com/ArulSrivastva">
-<img src="https://img.shields.io/badge/GitHub-ArulSrivastva-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
-</div>
+<img src="https://img.shields.io/badge/GITHUB-ARULSRIVASTVA-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=080B14"/>
 
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/arulsrivastva">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/ArulSrivastva">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/arul.srivastva/">
-<img src="https://skillicons.dev/icons?i=instagram" width="50"/>
 </a>
 
 </div>
 
 <br>
 
+```text
+┌──(arul@dev)-[~/projects]
+└─$ neofetch
+
+SYSTEM
+────────────────────────────────────────────
+
+OS          : ArulOS
+HOST        : Amrita Vishwa Vidyapeetham
+KERNEL      : Learning
+SHELL       : zsh
+
+LANGUAGES
+────────────────────────────────────────────
+
+C / C++ / Python / Java / JavaScript / TypeScript
+
+AI STACK
+────────────────────────────────────────────
+
+PyTorch / LLMs / AI Agents
+
+WEB
+────────────────────────────────────────────
+
+React / Next.js / FastAPI / Flask
+
+DATABASE
+────────────────────────────────────────────
+
+PostgreSQL / MongoDB / Supabase
+
+STATUS
+────────────────────────────────────────────
+
+ONLINE
+```
+
+---
+
+# `10` // CERTIFICATIONS
+
 <div align="center">
 
-<a href="https://linkedin.com/in/arulsrivastva">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+<table>
+<tr>
 
-<a href="https://www.instagram.com/arul.srivastva/">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/C_PROGRAMMING-00F5FF?style=for-the-badge&labelColor=080B14"/>
+
+<br><br>
+
+Payroll Management System
+
+<br><br>
+
+Infosys Springboard
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/JAVA-FF00E5?style=for-the-badge&labelColor=080B14"/>
+
+<br><br>
+
+Learn Programming with Java
+
+<br><br>
+
+Infosys Springboard
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-## ⚡ Random Facts About Me
+# `11` // PERSONAL MODULE
 
 <details>
-<summary><b>Click to reveal 👀</b></summary>
+<summary><b>ACCESS PERSONAL MODULE</b></summary>
 
 <br>
 
-* 🎨 I enjoy sketching
-* 👑 I spend an unreasonable amount of time thinking about Clash Royale strategies
-* 💻 I enjoy understanding how things work beneath the abstraction
-* 🧠 I'm increasingly interested in AI agents and intelligent systems
-* 🧩 DSA is slowly becoming a daily habit
-* 🚀 I prefer building projects over just watching tutorials
-* 🔥 There's probably another side project somewhere in my folders
+```text
+> Loading...
+
+[OK] Sketching
+[OK] Clash Royale strategy
+[OK] Fitness tracking
+[OK] Technical rabbit holes
+
+> Module loaded.
+```
+
+When I'm not coding, I spend time sketching, planning Clash Royale strategies, tracking fitness, and exploring technical rabbit holes.
 
 </details>
 
 ---
 
-## 💭 Developer Philosophy
+# `12` // CONNECT
 
 <div align="center">
 
-### *"Don't just learn how to use the abstraction.*
+<table>
+<tr>
 
-### *Learn what is happening underneath it."*
+<td align="center">
 
-<br>
+<a href="https://linkedin.com/in/arulsrivastva">
 
-`BUILD` → `BREAK` → `DEBUG` → `LEARN` → `BUILD BETTER`
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://github.com/ArulSrivastva">
+
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://www.instagram.com/arul.srivastva/">
+
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://leetcode.com/u/arulsrivastva/">
+
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+</a>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -401,8 +814,10 @@ An AI-powered utility designed to transform lengthy articles and text into conci
 
 <div align="center">
 
-### Thanks for stopping by! 👋
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&height=45&lines=BUILD+%E2%86%92+BREAK+%E2%86%92+DEBUG+%E2%86%92+LEARN+%E2%86%92+REPEAT;SYSTEM+STATUS%3A+ONLINE;END+OF+TRANSMISSION..." alt="Footer animation"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=120&section=footer"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:00F5FF,55:7C3AED,80:FF00E5,100:050816&height=150&section=footer" width="100%"/>
 
 </div>
