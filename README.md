@@ -425,81 +425,9 @@ AI-powered utility that processes lengthy articles and transforms them into conc
 
 ---
 
-# `04` // AI SYSTEM ARCHITECTURE
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-<img src="https://img.shields.io/badge/INPUT-00F5FF?style=for-the-badge&labelColor=080B14"/>
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/PROCESS-7C3AED?style=for-the-badge&labelColor=080B14"/>
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/AGENTS-FF00E5?style=for-the-badge&labelColor=080B14"/>
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/TOOLS-FFD600?style=for-the-badge&labelColor=080B14"/>
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/OUTPUT-00FF9C?style=for-the-badge&labelColor=080B14"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-```text
-                         ┌──────────────┐
-                         │     INPUT    │
-                         └──────┬───────┘
-                                |
-                                v
-                         ┌──────────────┐
-                         │   PROCESS    │
-                         │              │
-                         │ LLM / MODEL  │
-                         └──────┬───────┘
-                                |
-                 ┌──────────────┼──────────────┐
-                 |              |              |
-                 v              v              v
-            ┌────────┐    ┌────────┐    ┌────────┐
-            │ AGENT  │    │  RAG   │    │ TOOLS  │
-            └────┬───┘    └────┬───┘    └────┬───┘
-                 |              |              |
-                 └──────────────┼──────────────┘
-                                |
-                                v
-                         ┌──────────────┐
-                         │ ORCHESTRATOR │
-                         └──────┬───────┘
-                                |
-                                v
-                         ┌──────────────┐
-                         │    OUTPUT    │
-                         └──────────────┘
-```
-
-</div>
-
----
 
 
-
-## 06 // GITHUB TELEMETRY
+## 04 // GITHUB TELEMETRY
 
 <div align="center">
 
@@ -544,31 +472,9 @@ width="100%"
 
 </div>
 
-## 07 // CONTRIBUTION MATRIX
 
-<div align="center">
 
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/ArulSrivastva/ArulSrivastva/output/github-contribution-grid-snake-dark.svg"
-/>
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/ArulSrivastva/ArulSrivastva/output/github-contribution-grid-snake.svg"
-/>
-
-<img
-alt="GitHub Contribution Snake"
-src="https://raw.githubusercontent.com/ArulSrivastva/ArulSrivastva/output/github-contribution-grid-snake.svg"
-width="95%"
-/>
-
-</picture>
-
-# `09` // CODING TERMINAL
+# `06` // CODING TERMINAL
 
 <div align="center">
 
@@ -629,7 +535,7 @@ ONLINE
 
 
 
-# `11` // PERSONAL MODULE
+# `07` // PERSONAL MODULE
 
 <details>
 <summary><b>ACCESS PERSONAL MODULE</b></summary>
@@ -653,7 +559,7 @@ When I'm not coding, I spend time sketching, planning Clash Royale strategies, t
 
 ---
 
-# `12` // CONNECT
+# `08` // CONNECT
 
 <div align="center">
 
