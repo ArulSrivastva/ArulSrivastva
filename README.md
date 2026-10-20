@@ -497,79 +497,7 @@ AI-powered utility that processes lengthy articles and transforms them into conc
 
 ---
 
-# `05` // CURRENTLY LEARNING
 
-<table>
-<tr>
-
-<td width="25%" align="center">
-
-<img src="https://img.shields.io/badge/AI-00F5FF?style=for-the-badge&labelColor=080B14"/>
-
-<br><br>
-
-LLMs
-
-AI Agents
-
-RAG
-
-Model Integration
-
-</td>
-
-<td width="25%" align="center">
-
-<img src="https://img.shields.io/badge/SYSTEMS-FF00E5?style=for-the-badge&labelColor=080B14"/>
-
-<br><br>
-
-C
-
-Memory
-
-Operating Systems
-
-Low-Level Programming
-
-</td>
-
-<td width="25%" align="center">
-
-<img src="https://img.shields.io/badge/ALGORITHMS-7C3AED?style=for-the-badge&labelColor=080B14"/>
-
-<br><br>
-
-Data Structures
-
-Algorithms
-
-Problem Solving
-
-Competitive Programming
-
-</td>
-
-<td width="25%" align="center">
-
-<img src="https://img.shields.io/badge/ENGINEERING-00FF9C?style=for-the-badge&labelColor=080B14"/>
-
-<br><br>
-
-APIs
-
-Distributed Systems
-
-Docker
-
-Deployment
-
-</td>
-
-</tr>
-</table>
-
----
 
 ## 06 // GITHUB TELEMETRY
 
@@ -640,18 +568,6 @@ width="95%"
 
 </picture>
 
-</div>
-
-# `08` // ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ArulSrivastva&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=4"/>
-
-</div>
-
----
-
 # `09` // CODING TERMINAL
 
 <div align="center">
@@ -711,47 +627,7 @@ ONLINE
 
 ---
 
-# `10` // CERTIFICATIONS
 
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-<img src="https://img.shields.io/badge/C_PROGRAMMING-00F5FF?style=for-the-badge&labelColor=080B14"/>
-
-<br><br>
-
-Payroll Management System
-
-<br><br>
-
-Infosys Springboard
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="https://img.shields.io/badge/JAVA-FF00E5?style=for-the-badge&labelColor=080B14"/>
-
-<br><br>
-
-Learn Programming with Java
-
-<br><br>
-
-Infosys Springboard
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
 
 # `11` // PERSONAL MODULE
 
