@@ -427,7 +427,7 @@ AI-powered utility that processes lengthy articles and transforms them into conc
 
 
 
-## 04 // GITHUB TELEMETRY
+# `04` // GITHUB TELEMETRY
 
 <div align="center">
 
@@ -474,7 +474,7 @@ width="100%"
 
 
 
-# `06` // CODING TERMINAL
+# `05` // CODING TERMINAL
 
 <div align="center">
 
@@ -535,7 +535,7 @@ ONLINE
 
 
 
-# `07` // PERSONAL MODULE
+# `06` // PERSONAL MODULE
 
 <details>
 <summary><b>ACCESS PERSONAL MODULE</b></summary>
@@ -559,7 +559,7 @@ When I'm not coding, I spend time sketching, planning Clash Royale strategies, t
 
 ---
 
-# `08` // CONNECT
+# `07` // CONNECT
 
 <div align="center">
 
