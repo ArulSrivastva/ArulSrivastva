@@ -123,35 +123,19 @@ I enjoy taking complex ideas, understanding how they work underneath the abstrac
 
 <img src="https://img.shields.io/badge/01%20IDEA-00F5FF?style=for-the-badge&labelColor=080B14"/>
 
-<br><br>
-
 ↓
-
-<br>
 
 <img src="https://img.shields.io/badge/02%20RESEARCH-7C3AED?style=for-the-badge&labelColor=080B14"/>
 
-<br><br>
-
 ↓
-
-<br>
 
 <img src="https://img.shields.io/badge/03%20BUILD-FF00E5?style=for-the-badge&labelColor=080B14"/>
 
-<br><br>
-
 ↓
-
-<br>
 
 <img src="https://img.shields.io/badge/04%20DEBUG-FFD600?style=for-the-badge&labelColor=080B14"/>
 
-<br><br>
-
 ↓
-
-<br>
 
 <img src="https://img.shields.io/badge/05%20IMPROVE-00FF9C?style=for-the-badge&labelColor=080B14"/>
 
